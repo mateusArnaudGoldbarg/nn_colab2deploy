@@ -57,7 +57,7 @@ All deploying process is described in the image bellow:
 - [Heroku](https://www.heroku.com/) was used to deployment and test it again once live and also for CD.
 
 
-### Heroku's delivered API: https://prima-indians-app.herokuapp.com/docs
+### Heroku's delivered API: 
 
 # Medium Article:
 
