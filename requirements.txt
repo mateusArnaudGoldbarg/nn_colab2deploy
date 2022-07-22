@@ -8,4 +8,4 @@ uvicorn
 fastapi
 pydantic
 wandb
-tensorflow
+tensorflow-cpu
