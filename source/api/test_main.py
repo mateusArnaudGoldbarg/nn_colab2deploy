@@ -48,12 +48,12 @@ def test_get_inference_healthy():
 
     person = {
         "Pregnancies": 1,
-        "Glucose": 89,
-        "BloodPressure": 66,
-        "SkinThickness": 23,
-        "Insulin": 94,
-        "BMI": 28.1,
-        "DiabetesPedigreeFunction": 0.167,
+        "Glucose": 1,
+        "BloodPressure": 1,
+        "SkinThickness": 1,
+        "Insulin": 1,
+        "BMI": 1,
+        "DiabetesPedigreeFunction": 0,
         "Age": 21
     }
 
