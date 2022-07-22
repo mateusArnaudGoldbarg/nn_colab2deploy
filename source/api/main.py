@@ -76,7 +76,7 @@ async def get_inference(person: Person):
     pipe = joblib.load(model_export_path)
     
     #load best model
-    best_model = wandb.restore('model-best.h5', run_path="mgoldbarg/diabetes_nn/bv9w5mil")
+    best_model = wandb.restore('model-best.h5', run_path="mgoldbarg/diabetes_nn/ky8ntlvi")
     model = tensorflow.keras.models.load_model(best_model.name)
     
     # Create a dataframe from the input feature
