@@ -57,7 +57,7 @@ All deploying process is described in the image bellow:
 - [Heroku](https://www.heroku.com/) was used to deployment and test it again once live and also for CD.
 
 
-### Heroku's delivered API: 
+### Heroku's delivered API: https://nn-diabetes-app.herokuapp.com/
 
 # Medium Article:
 
