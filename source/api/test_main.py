@@ -47,14 +47,14 @@ def test_get_inference_diabetic():
 def test_get_inference_healthy():
 
     person = {
-        "Pregnancies": 1,
+        "Pregnancies": 0,
         "Glucose": 1,
         "BloodPressure": 1,
         "SkinThickness": 1,
         "Insulin": 1,
         "BMI": 1,
-        "DiabetesPedigreeFunction": 0,
-        "Age": 21
+        "DiabetesPedigreeFunction": 1,
+        "Age": 20
     }
 
     r = client.post("/predict", json=person)
