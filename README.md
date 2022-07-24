@@ -59,8 +59,7 @@ All deploying process is described in the image bellow:
 
 ### Heroku's delivered API: https://nn-diabetes-app.herokuapp.com/
 
-# Medium Article:
-
+# Medium Article: https://medium.com/@mattheuwsz.arnaud/mlops-workflow-bulding-and-deploying-a-neural-network-classifier-372fdd458c4b
 
 # References:
 - https://github.com/ivanovitchm/colab2mlops;
